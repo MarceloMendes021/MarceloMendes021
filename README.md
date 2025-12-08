@@ -1,44 +1,69 @@
-# 👋 Olá! Eu sou o Marcelo
+# 🧑🏽‍💻 Marcelo Mendes
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira e focado em me tornar um **desenvolvedor full stack**. Estou construindo meu primeiro sistema completo, de ponta a ponta — back-end com Node.js e front-end com React — para gestão de agendamentos em barbearias.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (4º período)**, em transição de carreira e focado em ingressar no mercado por meio de um estágio em desenvolvimento de software.
 
-Meu objetivo é conquistar uma oportunidade de **estágio em desenvolvimento**, onde eu possa aplicar na prática tudo o que venho estudando e seguir evoluindo como profissional de tecnologia.
-
----
-
-## 🚀 Tecnologias que estou utilizando:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+Atualmente desenvolvo aplicações com foco em APIs REST, autenticação, persistência em banco de dados e integração entre front-end e back-end, utilizando boas práticas e evolução contínua por meio de projetos práticos.
 
 ---
 
-## 📚 Em aprendizado constante:
-- Desenvolvimento front-end com React (SPA e integração com APIs)
-- Estruturação de projetos back-end com Node.js, Express e MongoDB
-- Práticas RESTful e autenticação com JWT
-- Versionamento com Git e GitHub
-- Escrita de código limpo e boas práticas de desenvolvimento
+<p style="font-size: 1.4rem; font-weight: bold;">🤖 Linguagens e Tecnologias</p>
+
+  <img alt="JavaScript" title="JavaScript" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" title="Node.js" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express" title="Express" width="50px" style="padding:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="MySQL" title="MySQL" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="React" title="React" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Git" title="Git" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img alt="GitHub" title="GitHub" width="50px" style="padding:10px;filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
 ---
 
-## 💡 Sobre mim:
-Sou dedicado, aprendo rápido e gosto de resolver problemas com código. Estou em busca de um ambiente onde eu possa contribuir, crescer e aprender com profissionais mais experientes.
+<p style="font-size: 1.4rem; font-weight: bold;">🧠 Atuação Técnica</p>
 
-> 🎯 Buscando uma vaga de **estágio em desenvolvimento full stack**  
-> 📍 Disponível para oportunidades **remotas** ou **presenciais em Curitiba**
-
----
-
-## 📫 Vamos conversar?
-- [LinkedIn](https://www.linkedin.com/in/marcelo021)
-- 📧 Email: marcelotavares.96@gmail.com
+- Desenvolvimento de **APIs REST** com **Node.js e Express**
+- Implementação de **autenticação JWT** e rotas protegidas
+- **Modelagem e persistência de dados** com **MongoDB** e **MySQL**
+- Integração entre **front-end em React** e back-end
+- Organização de projetos com **código modular e separação de responsabilidades**
+- Versionamento de código com **Git/GitHub**
 
 ---
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloMendes021&show_icons=true&theme=radical)
+<p style="font-size: 1.4rem; font-weight: bold;">🧪 Projetos em Desenvolvimento</p>
+
+Atualmente estou desenvolvendo projetos próprios com foco em **back-end e integração com front-end**, aplicando na prática conceitos de **APIs REST, autenticação, banco de dados e versionamento**.
+
+Meu objetivo neste momento é **construir uma base técnica sólida** antes de publicar projetos como versões finais.
+
+---
+
+<p style="font-size: 1.4rem; font-weight: bold;">🎯 Objetivo Profissional</p>
+
+Busco uma oportunidade de **estágio em desenvolvimento de software**, aberto a atuar tanto em **back-end quanto front-end**, onde eu possa aprender na prática, contribuir com a equipe e evoluir tecnicamente.
+
+---
+
+<p style="font-size: 1.4rem; font-weight: bold;">📫 Contato</p>
+
+- 💻 GitHub: https://github.com/MarceloMendes021
+- 💼 LinkedIn: https://www.linkedin.com/in/marcelo021
+- 📧 E-mail: marcelotmendes.ads@gmail.com
+- 📍 Curitiba – PR (remoto ou presencial)
+
+---
+
+<p style="font-size: 1.4rem; font-weight: bold;">📈 GitHub Stats</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MarceloMendes021&theme=react&locale=pt-br" width="51%" />
+  <img src="https://github-readme-stats-matin.vercel.app/api?username=MarceloMendes021&layout=compact&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=MarceloMendes021&layout=compact&theme=react&locale=pt-br" width="39%" />
+</div>
+
+<br />
