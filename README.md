@@ -8,14 +8,9 @@ Atualmente desenvolvo aplicações com foco em APIs REST, autenticação, persis
 
 <p style="font-size: 1.4rem; font-weight: bold;">🤖 Linguagens e Tecnologias</p>
 
-  <img alt="JavaScript" title="JavaScript" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" title="Node.js" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" title="Express" width="50px" style="padding:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img alt="MongoDB" title="MongoDB" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img alt="MySQL" title="MySQL" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="React" title="React" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Git" title="Git" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img alt="GitHub" title="GitHub" width="50px" style="padding:10px;filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<div>
+  <img alt="JavaScript" title="JavaScript" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img alt="Node.js" title="Node.js" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /><img alt="Express" title="Express" width="50px" style="padding:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /><img alt="MongoDB" title="MongoDB" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /><img alt="MySQL" title="MySQL" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img alt="React" title="React" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><img alt="Git" title="Git" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /><img alt="GitHub" title="GitHub" width="50px" style="padding:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+</div>
 
 ---
 
@@ -56,14 +51,9 @@ Busco uma oportunidade de **estágio em desenvolvimento de software**, aberto a 
 <p style="font-size: 1.4rem; font-weight: bold;">📈 GitHub Stats</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MarceloMendes021&theme=react&locale=pt-br" width="51%" />
-  <img src="https://github-readme-stats-matin.vercel.app/api?username=MarceloMendes021&layout=compact&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=MarceloMendes021&layout=compact&theme=react&locale=pt-br" width="39%" />
+  
+  <img src="https://github-readme-stats-matin.vercel.app/api?username=MarceloMendes021&layout=compact&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" width="50%" />
+  <img src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=MarceloMendes021&layout=compact&theme=react&locale=pt-br" width="45%" />
 </div>
 
 <br />
