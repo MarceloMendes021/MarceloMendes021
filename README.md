@@ -1,66 +1,69 @@
-# 🧑🏽‍💻 Marcelo Mendes
+# Marcelo Mendes
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (4º período)**, em transição de carreira e focado em ingressar no mercado por meio de um estágio em desenvolvimento de software.
+Desenvolvedor full-stack cursando o 4º semestre de ADS. Trabalho com TypeScript, Node.js, React e Next.js e já tenho aplicações rodando em produção com autenticação, banco de dados relacional e APIs REST.
 
-Atualmente desenvolvo aplicações com foco em APIs REST, autenticação, persistência em banco de dados e integração entre front-end e back-end, utilizando boas práticas e evolução contínua por meio de projetos práticos.
+Trabalhei 3 anos como monitor de qualidade em uma operadora de saúde. Aprendi a olhar para um processo e encontrar o que estava quebrando. Isso ainda aparece no jeito que escrevo código.
+
+Buscando minha primeira vaga como desenvolvedor junior, remoto ou presencial em Curitiba.
 
 ---
 
-<p style="font-size: 1.4rem; font-weight: bold;">🤖 Linguagens e Tecnologias</p>
+## Stack
 
 <div>
-  <img alt="JavaScript" title="JavaScript" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="Node.js" title="Node.js" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="Express" title="Express" width="50px" style="padding:10px; margin-right:16px;" src="https://skillicons.dev/icons?i=express" />
-  <img alt="MongoDB" title="MongoDB" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img alt="MySQL" title="MySQL" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="React" title="React" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Prisma" title="Prisma" width="50px" style="padding:10px; margin-right:16px;" src="https://skillicons.dev/icons?i=prisma" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Git" title="Git" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
   <img alt="GitHub" title="GitHub" width="50px" style="padding:10px;" src="https://skillicons.dev/icons?i=github" />
 </div>
 
 ---
 
-<p style="font-size: 1.4rem; font-weight: bold;">🧠 Atuação Técnica</p>
+## Projetos
 
-- Desenvolvimento de **APIs REST** com **Node.js e Express**
-- Implementação de **autenticação JWT** e rotas protegidas
-- **Modelagem e persistência de dados** com **MongoDB** e **MySQL**
-- Integração entre **front-end em React** e back-end
-- Organização de projetos com **código modular e separação de responsabilidades**
-- Versionamento de código com **Git/GitHub**
+### [Que KM é Esse?](https://que-km-web.vercel.app)
+Projeto autoral. PWA mobile-first para motoristas de aplicativo calcularem se o dia valeu a pena trabalhar. O motorista registra ganhos por plataforma, lança despesas e vê o valor real por KM rodado.
 
----
+**Stack:** React · Vite · TypeScript · Node.js · Express · Prisma · PostgreSQL (Neon) · Clerk · Vercel · Render
 
-<p style="font-size: 1.4rem; font-weight: bold;">🧪 Projetos em Desenvolvimento</p>
-
-Atualmente estou desenvolvendo projetos próprios com foco em **back-end e integração com front-end**, aplicando na prática conceitos de **APIs REST, autenticação, banco de dados e versionamento**.
-
-Meu objetivo neste momento é **construir uma base técnica sólida** antes de publicar projetos como versões finais.
+[Demo ao vivo](https://que-km-web.vercel.app) · [API](https://github.com/MarceloMendes021/que-km-api) · [Front-end](https://github.com/MarceloMendes021/que-km-web)
 
 ---
 
-<p style="font-size: 1.4rem; font-weight: bold;">🎯 Objetivo Profissional</p>
+### [NFC-e PoC](https://github.com/MarceloMendes021/nfce-poc)
+Projeto autoral. App mobile que lê o QR Code de notas fiscais eletrônicas (NFC-e) e extrai os itens automaticamente via backend Node.js, sem digitar nada manualmente.
 
-Busco uma oportunidade de **estágio em desenvolvimento de software**, aberto a atuar tanto em **back-end quanto front-end**, onde eu possa aprender na prática, contribuir com a equipe e evoluir tecnicamente.
+**Stack:** Expo · Node.js · TypeScript
 
----
-
-<p style="font-size: 1.4rem; font-weight: bold;">📫 Contato</p>
-
-- 💻 GitHub: https://github.com/MarceloMendes021
-- 💼 LinkedIn: https://www.linkedin.com/in/marcelo021
-- 📧 E-mail: marcelotmendes.ads@gmail.com
-- 📍 Curitiba – PR (remoto ou presencial)
+[GitHub](https://github.com/MarceloMendes021/nfce-poc)
 
 ---
 
-<p style="font-size: 1.4rem; font-weight: bold;">📈 GitHub Stats</p>
+### [Barber Shop](https://github.com/MarceloMendes021/barber-shop)
+Projeto de estudo. Sistema de agendamentos para barbearia desenvolvido para aprofundar Next.js full-stack com Prisma e banco relacional.
+
+**Stack:** Next.js · Prisma · PostgreSQL · TypeScript
+
+[GitHub](https://github.com/MarceloMendes021/barber-shop)
+
+---
+
+## Stats
 
 <div align="center">
-  
   <img src="https://github-readme-stats-matin.vercel.app/api?username=MarceloMendes021&layout=compact&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" width="50%" />
   <img src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=MarceloMendes021&layout=compact&theme=react&locale=pt-br" width="45%" />
 </div>
 
-<br />
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/marcelo021](https://www.linkedin.com/in/marcelo021)
+- E-mail: marcelotmendes.ads@gmail.com
+- Curitiba, PR (remoto ou presencial)
