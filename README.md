@@ -1,6 +1,6 @@
 # Marcelo Mendes
 
-Desenvolvedor full-stack cursando o 4º semestre de ADS. Trabalho com TypeScript, Node.js, React e Next.js e já tenho aplicações rodando em produção com autenticação, banco de dados relacional e APIs REST.
+Desenvolvedor full-stack cursando o 4º semestre de ADS. Trabalho com TypeScript, Node.js, React e Next.js. Tenho aplicações rodando em produção com autenticação, banco de dados relacional e APIs REST.
 
 Trabalhei 3 anos como monitor de qualidade em uma operadora de saúde. Aprendi a olhar para um processo e encontrar o que estava quebrando. Isso ainda aparece no jeito que escrevo código.
 
@@ -19,7 +19,7 @@ Buscando minha primeira vaga como desenvolvedor junior, remoto ou presencial em 
   <img alt="Prisma" title="Prisma" width="50px" style="padding:10px; margin-right:16px;" src="https://skillicons.dev/icons?i=prisma" />
   <img alt="PostgreSQL" title="PostgreSQL" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Git" title="Git" width="50px" style="padding:10px; margin-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img alt="GitHub" title="GitHub" width="50px" style="padding:10px;" src="https://skillicons.dev/icons?i=github" />
+ 
 </div>
 
 ---
