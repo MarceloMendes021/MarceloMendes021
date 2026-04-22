@@ -2,9 +2,9 @@
 
 Desenvolvedor full-stack cursando o 4º semestre de ADS. Trabalho com TypeScript, Node.js, React e Next.js. Tenho aplicações rodando em produção com autenticação, banco de dados relacional e APIs REST.
 
-Trabalhei 3 anos como monitor de qualidade em uma operadora de saúde. Aprendi a olhar para um processo e encontrar o que estava quebrando. Isso ainda aparece no jeito que escrevo código.
+Trabalhei 3 anos como monitor de qualidade em uma operadora de saúde. Aprendi a olhar para um processo e entender onde ele estava falhando. Esse hábito ficou no jeito que escrevo código.
 
-Buscando minha primeira vaga como desenvolvedor junior, remoto ou presencial em Curitiba.
+Aberto a oportunidades como desenvolvedor full-stack, remoto ou presencial em Curitiba.
 
 ---
 
